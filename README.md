@@ -10,7 +10,9 @@
 
 # Usage
 
-* **python pdfMerger.py -h**
+```bash
+python pdfMerger.py -h
+```
 
 # Options
 
@@ -26,7 +28,9 @@
 
 ### Command line
 
-* python pdfMerger.py -d "pdf_files" -o "merged_files" -n "Bingo.pdf"
+```bash
+python pdfMerger.py -d "pdf_files" -o "merged_files" -n "Bingo.pdf"
+```
 
 # Screenshot
 * See the [Result](https://github.com/lakehalmehdi/PdfMerger/raw/main/screenshot.png "PDF Merger")
