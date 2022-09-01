@@ -20,8 +20,8 @@
 
 # Example
 
-* **Input:** "pdf_files"
-* **Output:** "merged_files"
+* **Input Directory:** "pdf_files"
+* **Output Directory:** "merged_files"
 * **Output Merged File Name:** "Bingo.pdf"
 
 ### Command line
