@@ -1,7 +1,11 @@
 # About PdfMerger
 
-* This is a simple script that allows you to merge multiple PDF files using the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/ "PyPDF2 documentation") module.
+* This is a simple script written in [Python](python.org "Python Website") that allows you to merge multiple PDF files using the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/ "PyPDF2 documentation") module.
 * This script uses the [argparse](docs.python.org/3/library/argparse.html "argpasre documentation") module which means you can pass args to the script.
+
+# Requirements
+
+You should install the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html "PyPDF2 installation") module.
 
 # Usage
 
