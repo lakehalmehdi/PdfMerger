@@ -5,7 +5,8 @@
 
 # Requirements
 
-You should install the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html "PyPDF2 installation") module.
+* You shoud have [Python](https://www.python.org/downloads/ "Download Python") installed in your machine.
+* You should install the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html "PyPDF2 installation") module.
 
 # Usage
 
@@ -29,4 +30,6 @@ You should install the [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/ins
 
 # Screenshot
 * See the [Result](https://github.com/lakehalmehdi/PdfMerger/raw/main/screenshot.png "PDF Merger")
+
+## Happy merging ! 
 
