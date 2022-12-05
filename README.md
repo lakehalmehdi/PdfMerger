@@ -33,7 +33,7 @@ python pdfMerger.py -d "pdf_files" -o "merged_files" -n "Bingo.pdf"
 ```
 
 # Screenshot
-* See the [Result](https://github.com/lakehalmehdi/PdfMerger/raw/main/screenshot.png "PDF Merger")
+* See the [Result](https://github.com/lakehalmehdi/PdfMerger/raw/main/Screenshot.png "PDF Merger")
 
 **Happy merging !**
 
